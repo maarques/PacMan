@@ -1,5 +1,5 @@
 # PacMan
-Jogo do PacMan onde o jogador se movimenta com as teclas "wasd". No jogo existe a pílula, caso o herói obtenha a pílula é possível explodir os fantasmas usando a tecla "b", a explosão percorre 3 casas para esquerda, direita, cima e baixo. É possível mudar o tamanho do mapa, basta apenas alterar o arquivo mapa.txt, o jogador pode adicionar quantos fantasmas e pílulas quiser. 
+Jogo do PacMan onde o jogador se movimenta com as teclas "wasd". No jogo existe a pílula, caso o herói obtenha a pílula é possível explodir os fantasmas usando a tecla "b", a explosão percorre 3 casas para esquerda, direita, cima e baixo. É possível mudar o tamanho do mapa, basta apenas alterar o arquivo mapa.txt, o jogador pode adicionar quantos fantasmas e pílulas quiser.\
 5 10\
 |--------|\
 |.F.|..-.|\
