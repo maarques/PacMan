@@ -1,0 +1,9 @@
+# ninja log v5
+3	75	7356763186157998	CMakeFiles/Projeto_PacMan.dir/main.c.obj	f301db8d0befc9bf
+2	214	7356767402799636	build.ninja	78d9587a2eae8009
+16	89	7356737512354387	CMakeFiles/Projeto_PacMan.dir/mapa.c.obj	9538f4fa4141327f
+76	162	7356763186985781	Projeto_PacMan.exe	246eb96b075722f3
+10	76	7356782596700989	CMakeFiles/Projeto_PacMan.dir/ui.c.obj	4f6a13562cfc3d41
+7	83	7356782596780775	CMakeFiles/Projeto_PacMan.dir/mapa.c.obj	9538f4fa4141327f
+3	85	7356782596800720	CMakeFiles/Projeto_PacMan.dir/main.c.obj	f301db8d0befc9bf
+85	162	7356782597548714	Projeto_PacMan.exe	34f3df588ae775bd
